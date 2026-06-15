@@ -119,13 +119,13 @@ GenerateClassCluster=0
 DocumentUniqueId=HMZVEFCI
 
 [Document5]
-DocumentPath=S56_MLD_tiny_Controller.SchDoc
+DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\S56_MLD_tiny_Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -133,7 +133,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JJHSRVVB
 
 [Document6]
 DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Diode_sch.LIB
@@ -187,13 +187,13 @@ GenerateClassCluster=0
 DocumentUniqueId=HDBNWTOJ
 
 [Document9]
-DocumentPath=S56_MLD_tiny_Main.SchDoc
+DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\PcbLib\S56_MLD_tiny_Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -201,7 +201,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JTMJAPCF
 
 [Document10]
 DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Con_sch.LIB
@@ -254,13 +254,48 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QZESVWUL
 
+[Document13]
+DocumentPath=S56_MLD_tiny_.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=ff7b5a7d-1f0d-444d-a2f1-d59231253dc7
 Description=Prototype
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
+VariationCount=10
+Variation1=Designator=X2|UniqueId=\MLYSJRLR|Kind=1|AlternatePart=
+Variation2=Designator=X6|UniqueId=\PZFTSFXR|Kind=1|AlternatePart=
+Variation3=Designator=X7|UniqueId=\CGLPXSLS|Kind=1|AlternatePart=
+Variation4=Designator=X8|UniqueId=\STUJEPTC|Kind=1|AlternatePart=
+Variation5=Designator=X9|UniqueId=\LHUZMTIM|Kind=1|AlternatePart=
+Variation6=Designator=X10|UniqueId=\RQMBMLIC|Kind=1|AlternatePart=
+Variation7=Designator=J1|UniqueId=\MCWBJUDS\YFDRZJOT|Kind=0|AlternatePart=
+ParamVariation1=ParameterName=Description|VariantValue=0E
+ParamDesignator1=J1
+Variation8=Designator=J2|UniqueId=\MCWBJUDS\RAWESFYI|Kind=0|AlternatePart=
+ParamVariation2=ParameterName=Description|VariantValue=0E
+ParamDesignator2=J2
+Variation9=Designator=J3|UniqueId=\MCWBJUDS\LODDXBHN|Kind=0|AlternatePart=
+ParamVariation3=ParameterName=Description|VariantValue=Select GND
+ParamDesignator3=J3
+Variation10=Designator=J4|UniqueId=\MCWBJUDS\NTIRCKJA|Kind=0|AlternatePart=
+ParamVariation4=ParameterName=Description|VariantValue=0E
+ParamDesignator4=J4
+ParamVariationCount=4
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for S56_MLD_tiny\Design Rule Check - S56_MLD_tiny.html
@@ -283,90 +318,110 @@ DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.DRR
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.EXTREP
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny-RoundHoles-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.G1
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny-RoundHoles-Plated.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.G2
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBL
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny-SlotHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBO
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBP
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBS
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.G1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GD1
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.G2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GD2
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GD3
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GG1
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GG2
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GG3
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GKO
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GD2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GM
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GD3
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTL
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTO
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GG2
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTP
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GG3
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTS
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.LDP
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GM
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
 DocumentPath=Project Outputs for S56_MLD_tiny\S56_MLD_tiny.REP
 DItemRevisionGUID=
 
