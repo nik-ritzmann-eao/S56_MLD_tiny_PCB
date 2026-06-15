@@ -119,13 +119,13 @@ GenerateClassCluster=0
 DocumentUniqueId=HMZVEFCI
 
 [Document5]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\S56_MLD_tiny_Controller.SchDoc
+DocumentPath=S56_MLD_tiny_Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -133,7 +133,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JJHSRVVB
+DocumentUniqueId=
 
 [Document6]
 DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Diode_sch.LIB
@@ -187,13 +187,13 @@ GenerateClassCluster=0
 DocumentUniqueId=HDBNWTOJ
 
 [Document9]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\PcbLib\S56_MLD_tiny_Main.SchDoc
+DocumentPath=S56_MLD_tiny_Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -201,7 +201,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JTMJAPCF
+DocumentUniqueId=
 
 [Document10]
 DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Con_sch.LIB
@@ -254,48 +254,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QZESVWUL
 
-[Document13]
-DocumentPath=S56_MLD_tiny_.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [ProjectVariant1]
 UniqueId=ff7b5a7d-1f0d-444d-a2f1-d59231253dc7
 Description=Prototype
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
-Variation1=Designator=X2|UniqueId=\MLYSJRLR|Kind=1|AlternatePart=
-Variation2=Designator=X6|UniqueId=\PZFTSFXR|Kind=1|AlternatePart=
-Variation3=Designator=X7|UniqueId=\CGLPXSLS|Kind=1|AlternatePart=
-Variation4=Designator=X8|UniqueId=\STUJEPTC|Kind=1|AlternatePart=
-Variation5=Designator=X9|UniqueId=\LHUZMTIM|Kind=1|AlternatePart=
-Variation6=Designator=X10|UniqueId=\RQMBMLIC|Kind=1|AlternatePart=
-Variation7=Designator=J1|UniqueId=\MCWBJUDS\YFDRZJOT|Kind=0|AlternatePart=
-ParamVariation1=ParameterName=Description|VariantValue=0E
-ParamDesignator1=J1
-Variation8=Designator=J2|UniqueId=\MCWBJUDS\RAWESFYI|Kind=0|AlternatePart=
-ParamVariation2=ParameterName=Description|VariantValue=0E
-ParamDesignator2=J2
-Variation9=Designator=J3|UniqueId=\MCWBJUDS\LODDXBHN|Kind=0|AlternatePart=
-ParamVariation3=ParameterName=Description|VariantValue=Select GND
-ParamDesignator3=J3
-Variation10=Designator=J4|UniqueId=\MCWBJUDS\NTIRCKJA|Kind=0|AlternatePart=
-ParamVariation4=ParameterName=Description|VariantValue=0E
-ParamDesignator4=J4
-ParamVariationCount=4
+VariationCount=0
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for S56_MLD_tiny\Design Rule Check - S56_MLD_tiny.html
