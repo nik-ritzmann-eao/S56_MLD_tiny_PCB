@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\Niklaus.Ritzmann\OneDrive - EAO AG\Home\Stuff\Projects\BR56LM_MatrixDisplay\PCB\S56_MLD_tiny\S56_MLD_tiny.pcbdoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=s56_mld_tiny-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=s56_mld_tiny-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_1_Blind_Vias|DrillFile=s56_mld_tiny-plated.tx1|DrillLayers=gtl,g1
+LayersSetName=3_Bot_Blind_Vias|DrillFile=s56_mld_tiny-plated.tx2|DrillLayers=g2,gbl
