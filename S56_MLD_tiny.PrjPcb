@@ -125,7 +125,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -136,7 +136,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Diode_sch.LIB
+DocumentPath=..\..\OneDrive - EAO AG\Home\Stuff\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Diode_sch.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,41 +153,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IPYZWMOE
 
 [Document7]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\RCL_sch.LIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TYKRHVLT
-
-[Document8]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\PcbLib\LokDecoderHuge.LIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HDBNWTOJ
-
-[Document9]
-DocumentPath=S56_MLD_tiny_Main.SchDoc
+DocumentPath=..\..\OneDrive - EAO AG\Home\Stuff\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\RCL_sch.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,8 +169,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Con_sch.LIB
+[Document8]
+DocumentPath=..\..\OneDrive - EAO AG\Home\Stuff\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\PcbLib\LokDecoderHuge.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -218,10 +184,44 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PIFUUAJG
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=S56_MLD_tiny_Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=..\..\OneDrive - EAO AG\Home\Stuff\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Con_sch.LIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\PcbLib\Objects.PcbLib
+DocumentPath=..\..\OneDrive - EAO AG\Home\Stuff\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\PcbLib\Objects.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -238,7 +238,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\..\..\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Specials_sch.LIB
+DocumentPath=..\..\OneDrive - EAO AG\Home\Stuff\Modellbahn\RailMountDecoder2\lib branch rail_mount_decoder_2\SchLib\Specials_sch.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -252,7 +252,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QZESVWUL
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=ff7b5a7d-1f0d-444d-a2f1-d59231253dc7
