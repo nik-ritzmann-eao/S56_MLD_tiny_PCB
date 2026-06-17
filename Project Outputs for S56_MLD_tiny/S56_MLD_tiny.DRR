@@ -1,0 +1,36 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: S56_MLD_tiny.pcbdoc   17.06.2026  17:48:32
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : S56_MLD_tiny-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : S56_MLD_tiny-RoundHoles-NonPlated.TXT
+ASCII Non-Plated SlotHoles File : S56_MLD_tiny-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             179       PTH        346.20mm (13.63inch)
+T2      1.4mm (55mil)                                             Slot              2         NPTH       71.57mm (2.82inch)
+T3      2.2mm (87mil)                                             Round             5         NPTH       76.23mm (3.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              186
+Layer Pair : Top Layer to Layer 1
+ASCII Plated RoundHoles File : S56_MLD_tiny-RoundHoles-Plated.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             200       PTH        308.29mm (12.14inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              200
+Layer Pair : Layer 3 to Bottom Layer
+ASCII Plated RoundHoles File : S56_MLD_tiny-RoundHoles-Plated.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             44        PTH        121.62mm (4.79inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              44
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              430
+
+Total Processing Time (hh:mm:ss) : 00:00:00
